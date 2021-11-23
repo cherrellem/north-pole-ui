@@ -26,7 +26,7 @@ This template ships with the main React and Storybook configuration files you'll
 
     ```shell
     # Navigate to the directory
-    cd taskbox/
+    cd north-pole-ui/
 
     # Install the dependencies
     yarn
